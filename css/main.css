@@ -1,0 +1,22 @@
+#addSkill {
+    background-color: white;
+    color: black;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+#addSkill:hover {
+    background-color: black;
+    color: white;
+}
+
+#enterSkill {
+    padding: 10px;
+    border-color: black;
+    border-width: 2px;
+    margin: 0 auto;
+}
+<<<<<<< HEAD
+
+=======
+>>>>>>> f18a20f71fc6a3c595749a853cbe714eb4f3cec5
